@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/0610-triangle-judgement) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->

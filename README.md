@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/0610-triangle-judgement) |
 | [1670-patients-with-a-condition](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/subhampanda30/SQL-50-Leetcode-/tree/master/1811-fix-names-in-a-table) |
